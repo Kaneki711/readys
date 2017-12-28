@@ -14,7 +14,7 @@ from googletrans import Translator
 
 cl = KRIS.LINE()
 #cl.login(qr=True)
-cl.login(token='isi anu')#ranita
+cl.login(token='EoWTRQffwBi3QCj0KDY1.hNu2t4UqP7/h8ABQTos7aq.xSkV8WlljmlT7PLIv2Ohh9t/aSjUQAU1bC/T2Xib8BI=')#ranita
 cl.loginResult()#
 
 kc = kl = cl
@@ -4039,12 +4039,7 @@ def bot(op):
 					cl.sendText(msg.to,"Bot 2")
 					cl.sendText(msg.to,"Bot 3")
             elif msg.text in ["Absen"]:
-                    cl.sendText(msg.to,"")
-                    cl.sendText(msg.to,"2")
-                    cl.sendText(msg.to,"👉★★★★★")
-                    cl.sendText(msg.to,"👉★★★★★★")
-                    cl.sendText(msg.to,"👉★★★★★★★")
-                    cl.sendText(msg.to,"👉Semua Hadir Boss...!!!\n\n[✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰]")
+                    cl.sendText(msg.to,"AENG GES HADIR")
 #-------------------------------------------------
             elif "Getmid @" in msg.text:
                 if msg.from_ in admin or owner:
