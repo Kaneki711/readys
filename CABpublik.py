@@ -28,210 +28,184 @@ sys.setdefaultencoding('utf-8')
 #image_path = 'tmp/tmp.jpg'
 
 helpMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠☔Key1
-║╠☔Key2
-║╠☔Key3
-║╠☔Say (txt)
-║╠☔Kr say (text)
-║╠☔Apakah (text)
-║╠☔Kapan (txt)
-║╠☔welcome
-║╠☔.. (text)
-║╠☔Time
-║╠☔rate @
-║╠☔Gcreator
-║╠☔Creator
-║╠☔Spam on (jml) (Text)
-║╠☔image
-║╠☔ig
-║╠☔youtube
-║╠☔lirik
-║╠☔music
-║╠☔zodiAK
-║╠☔Mimic
-║╠☔Getcover @
-║╠☔Tag on/off
-║╠☔Getpp @
-║╠☔Getinfo @
-║╠☔Getinfo2
-║╠☔Njoin on/off
-║╠☔Nleave on/off
-║╠☔setview
-║╠☔viewseen
-║╠☔CCtv
-║╠☔Intip
-║╠☔Crot (tagall)
-║╠☔Absen
-║╠☔Gift
-║╠☔ranita pergi (ngeluarkan bot)
-║╠☔Kr pergi (ngeluarkan bot)
-║╚════════════
-║   UNTUK PUBLIK
-║ SILAHKAN GUNAKAN
-╚═════════════
+╔═════════════════════════
+║ STARBOT PUBLIC
+╚═════════════════════════
+╔═════════════════════════
+║􀜁􀇔Mask􏿿 Say (txt)
+║􀜁􀇔Mask􏿿 Apakah (text)
+║􀜁􀇔Mask􏿿 Kapan (txt)
+║􀜁􀇔Mask􏿿 welcome
+║􀜁􀇔Mask􏿿 Time
+║􀜁􀇔Mask􏿿 rate @
+║􀜁􀇔Mask􏿿 Gcreator
+║􀜁􀇔Mask􏿿 Creator
+║􀜁􀇔Mask􏿿 Spam on (jml) (Text)
+║􀜁􀇔Mask􏿿 image
+║􀜁􀇔Mask􏿿 ig
+║􀜁􀇔Mask􏿿 youtube
+║􀜁􀇔Mask􏿿 lirik
+║􀜁􀇔Mask􏿿 music
+║􀜁􀇔Mask􏿿 zodiAK
+║􀜁􀇔Mask􏿿 Mimic
+║􀜁􀇔Mask􏿿 Getcover @
+║􀜁􀇔Mask􏿿 Tag on/off
+║􀜁􀇔Mask􏿿 Getpp @
+║􀜁􀇔Mask􏿿 Getinfo @
+║􀜁􀇔Mask􏿿 Getinfo2
+║􀜁􀇔Mask􏿿 Njoin on/off
+║􀜁􀇔Mask􏿿 Nleave on/off
+║􀜁􀇔Mask􏿿 setview
+║􀜁􀇔Mask􏿿 viewseen
+║􀜁􀇔Mask􏿿 Cek
+║􀜁􀇔Mask􏿿 Read
+║􀜁􀇔Mask􏿿 Tag
+║􀜁􀇔Mask􏿿 Absen
+║􀜁􀇔Mask􏿿 Gift
+║􀜁􀇔Mask􏿿 Out
+╚═════════════════════════
+╔═════════════════════════
+║TEAM STAR BOT
+╚═════════════════════════
 """
 
 protectMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠❂͜͡⚡➣qr on/oғғ
-║╠❂͜͡⚡➣gυeѕт on/oғғ
-║╠❂͜͡⚡➣мeмвer on/oғғ
-║╠❂͜͡⚡➣groυp on/oғғ
-║╠❂͜͡⚡➣ĸιcĸ on/oғғ
-║╠❂͜͡⚡➣cancel on/oғғ
-║╚════════════
-╚═════════════
+╔════════════════════════════════
+║ CREATOR line.me/ti/p/~ebisuindo
+╚════════════════════════════════
+╔════════════════════════════════
+║ YOUR COMMAND
+╚════════════════════════════════
+║􀜁􀇔Mask􏿿 Qr On/off
+║􀜁􀇔Mask􏿿 Member On/off
+║􀜁􀇔Mask􏿿 Group On/Off
+║􀜁􀇔Mask􏿿 Kick On/Off
+║􀜁􀇔Mask􏿿 Cancel On/Off
+╚════════════════════════════════
+╔════════════════════════════════
+║TEAM STAR BOT
+╚════════════════════════════════
 """
 
 socmedMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠❂͜͡🌟➣wιĸι [тeхт]
-║╠❂͜͡🌟➣ιg [тeхт]
-║╠❂͜͡🌟➣ιмage [тeхт]
-║╠❂͜͡🌟➣vιdeo [тeхт]
-║╠❂͜͡🌟➣zodιaĸ [тeхт]
-║╠❂͜͡🌟➣yoυтυвe [тeхт]
-║╠❂͜͡🌟➣lιrιĸ [тeхт]
-║╠❂͜͡🌟➣ιdlιne [тeхт]
-║╠❂͜͡🌟➣мυѕιc [тeхт]
-║╠❂͜͡🌟➣тιмe [тιмe]
-║╠❂͜͡🌟➣ѕay [тeхт]
-║╚════════════
-╚═════════════
+╔════════════════════════════════
+║Creator line.me/ti/p/~ebisuindo
+╚════════════════════════════════
+╔════════════════════════════════
+║YOUR COMMAND
+╚════════════════════════════════
+╔════════════════════════════════
+║􀜁􀇔Mask􏿿 Wiki [Text]
+║􀜁􀇔Mask􏿿 Ig [Text]
+║􀜁􀇔Mask􏿿 Image [Text]
+║􀜁􀇔Mask􏿿 Video [Text]
+║􀜁􀇔Mask􏿿 Zodiak [Text]
+║􀜁􀇔Mask􏿿 Youtube [Text]
+║􀜁􀇔Mask􏿿 Lirik [Text]
+║􀜁􀇔Mask􏿿 Idline [Text]
+║􀜁􀇔Mask􏿿 Music [Text]
+║􀜁􀇔Mask􏿿 Lirik [Text]
+║􀜁􀇔Mask􏿿 Say [Text]
+╚════════════════════════════════
+╔════════════════════════════════
+║TEAM STAR BOT
+╚════════════════════════════════
 """
 
 translateMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠☔тr-ιd = ιndoneѕιa
-║╠☔тr-мy = мyanмar
-║╠☔тr-en = englιѕн
-║╠☔тr-тн = тнaιland
-║╠☔тr-ja = japaneѕe
-║╠☔тr-мѕ = мalayѕιa
-║╠☔тr-ιт = ιтalιan
-║╠☔тr-тr = тυrĸιѕн
-║╠☔тr-aғ = aғrιĸaanѕ
-║╠☔тr-ѕq = alвanιan
-║╠☔тr-aм = aмнarιc
-║╠☔тr-ar = araвιc
-║╠☔тr-нy = arмenιan
-║╚════════════
-╚═════════════
+╔════════════════════════════════
+║Creator line.me/ti/p/~ebisuindo
+╚════════════════════════════════
+╔════════════════════════════════
+║YOUR COMMAND
+╚════════════════════════════════
+╔════════════════════════════════
+║􀜁􀇔Mask􏿿 Tr-id
+║􀜁􀇔Mask􏿿 Tr-my
+║􀜁􀇔Mask􏿿 Tr-en
+║􀜁􀇔Mask􏿿 Tr-th
+║􀜁􀇔Mask􏿿 Tr-ms
+║􀜁􀇔Mask􏿿 Tr-lt
+║􀜁􀇔Mask􏿿 Tr-tr
+╚════════════════════════════════
+╔════════════════════════════════
+║TEAM STAR BOT
+╚════════════════════════════════
 """
 
 botMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠❂͜͡⚡➣nĸ [naмe]
-║╠❂͜͡⚡➣vĸ [naмe]
-║╠❂͜͡⚡➣nυĸe
-║╠❂͜͡⚡➣lυrĸιng > Cctv
-║╠❂͜͡⚡➣тeѕ
-║╠❂͜͡⚡➣reѕpon
-║╠❂͜͡⚡➣ѕpeed
-║╠❂͜͡⚡➣glιѕт
-║╠❂͜͡⚡➣тagall/Crot
-║╠❂͜͡⚡➣reѕтarт
-║╠❂͜͡⚡➣cn [тeхт]
-║╠❂͜͡⚡➣cѕ [тeхт]
-║╠❂͜͡⚡➣мe
-║╠❂͜͡⚡➣craѕн
-║╚════════════
-╚═════════════
+╔════════════════════════════════
+║Creator line.me/ti/p/~ebisuindo
+╚════════════════════════════════
+╔════════════════════════════════
+║YOUR COMMAND
+╚════════════════════════════════
+╔════════════════════════════════
+║􀜁􀇔Mask􏿿 Nk [Name]
+║􀜁􀇔Mask􏿿 Vk [Name]
+║􀜁􀇔Mask􏿿 Nuke
+║􀜁􀇔Mask􏿿 Lurking
+║􀜁􀇔Mask􏿿 Tes
+║􀜁􀇔Mask􏿿 Respon
+║􀜁􀇔Mask􏿿 Speed
+║􀜁􀇔Mask􏿿 Glist
+║􀜁􀇔Mask􏿿 Tag
+║􀜁􀇔Mask􏿿 Restart
+║􀜁􀇔Mask􏿿 Cn
+║􀜁􀇔Mask􏿿 Cs
+║􀜁􀇔Mask􏿿 Me
+║􀜁􀇔Mask􏿿 Crash
+╚════════════════════════════════
+╔════════════════════════════════
+║TEAM STAR BOT
+╚════════════════════════════════
 """
 
 settingMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠❂͜͡🌟➣ѕeт
-║╠❂͜͡🌟➣тag on/oғғ
-║╠❂͜͡🌟➣тag2 on/oғғ
-║╠❂͜͡🌟➣aυтolιĸe on/oғғ
-║╠❂͜͡🌟➣add on/oғғ
-║╠❂͜͡🌟➣joιn on/oғғ
-║╠❂͜͡🌟➣ѕнare on/oғғ
-║╠❂͜͡🌟➣coммenт on/oғғ
-║╠❂͜͡🌟➣ĸ on/oғғ
-║╠❂͜͡🌟➣njoιn on/oғғ
-║╠❂͜͡🌟➣nleave on/oғғ
-║╚════════════
-╚═════════════
-"""
-
-giftMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠❂͜͡🌟➣gιғт
-║╠❂͜͡🌟➣gιғт 1
-║╠❂͜͡🌟➣gιғт 2
-║╠❂͜͡🌟➣gιғт 3
-║╚════════════
-╚═════════════
+╔════════════════════════════════
+║Creator line.me/ti/p/~ebisuindo
+╚════════════════════════════════
+╔════════════════════════════════
+║YOUR COMMAND
+╚════════════════════════════════
+╔════════════════════════════════
+║􀜁􀇔Mask􏿿 Set
+║􀜁􀇔Mask􏿿 Tag on/off
+║􀜁􀇔Mask􏿿 Tag2 on/off
+║􀜁􀇔Mask􏿿 Autolike on/off
+║􀜁􀇔Mask􏿿 Add on/off
+║􀜁􀇔Mask􏿿 Join on/off
+║􀜁􀇔Mask􏿿 Share on/off
+║􀜁􀇔Mask􏿿 Comment on/off
+║􀜁􀇔Mask􏿿 K on/off
+╚════════════════════════════════
+╔════════════════════════════════
+║TEAM STAR BOT
+╚════════════════════════════════
 """
 
 stealMessage ="""
-╔═════════════
-║    ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║      Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
-║╠❂͜͡🌟➣geтnaмe @
-║╠❂͜͡🌟➣geтвιo @
-║╠❂͜͡🌟➣geтιnғo @
-║╠❂͜͡🌟➣geтpp @
-║╠❂͜͡🌟➣geтcover @
-║╠❂͜͡🌟➣geтмιd @
-║╠❂͜͡🌟➣geтgroυp
-║╠❂͜͡🌟➣ѕeтιмage [lιnĸ]
-║╠❂͜͡🌟➣papιмage
-║╠❂͜͡🌟➣ѕeтvιdeo [lιnĸ]
-║╠❂͜͡🌟➣papvιdeo
-║╠❂͜͡🌟➣мycopy @
-║╠❂͜͡🌟➣мyвacĸυp
-║╚════════════
-╚═════════════
+╔════════════════════════════════
+║Creator line.me/ti/p/~ebisuindo
+╚════════════════════════════════
+╔════════════════════════════════
+║YOUR COMMAND
+╚════════════════════════════════
+╔════════════════════════════════
+║􀜁􀇔Mask􏿿 Getname @
+║􀜁􀇔Mask􏿿 Getbio @
+║􀜁􀇔Mask􏿿 Getinfo @
+║􀜁􀇔Mask􏿿 Getpp @
+║􀜁􀇔Mask􏿿 Getcover @
+║􀜁􀇔Mask􏿿 Getmid @
+║􀜁􀇔Mask􏿿 Getgroup
+║􀜁􀇔Mask􏿿 Setimage
+║􀜁􀇔Mask􏿿 Papimage
+║􀜁􀇔Mask􏿿 Setvideo
+║􀜁􀇔Mask􏿿 Papvideo
+║􀜁􀇔Mask􏿿 Mycopy @
+║􀜁􀇔Mask􏿿 Mybackup
+╚════════════════════════════════
 """
 KAC=[cl,ki,kk,kc,kl]
 mid = cl.getProfile().mid
@@ -250,9 +224,9 @@ wait = {
     'leaveRoom':False,
     'timeline':False,
     'autoAdd':True,
-    'message':"""👉😊☆º°˚˚☆✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰☆º°˚˚☆（＾ω＾）\n\nby Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««""",
+    'message':"""════════════════════════════════\nOPEN ORDER BOT\nOWNER BOT 1 BOTnya 50K Minimal order 4 Bot\nADMIN BOT\nSTAFF BOT\MINAT PM ID LINE line.me/ti/p/~ebisuindo\n════════════════════════════════""",
     "lang":"JP",
-    "comment":"""👉😊☆º°˚˚☆✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰☆º°˚˚☆（＾ω＾）\n\nby Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««""",
+    "comment":"""════════════════════════════════\nOPEN ORDER BOT\nOWNER BOT 1 BOTnya 50K Minimal order 4 Bot\nADMIN BOT\nSTAFF BOT\MINAT PM ID LINE line.me/ti/p/~ebisuindo\n════════════════════════════════""",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
@@ -850,6 +824,7 @@ def bot(op):
             if op.param3 in mid:
 		if op.param2 in creator:
 		    cl.acceptGroupInvitation(op.param1)
+		    cl.SendText(op.param1,"Terimakasih Telah undang Saya ke Group\nCREATOR STARBOT line.me/ti/p/~ebisuindo\nOA TEAM line.me/ti/p/~@enr7503k")
             if op.param3 in Amid:
 		if op.param2 in creator:
 		    ki.acceptGroupInvitation(op.param1)
@@ -863,6 +838,7 @@ def bot(op):
             if op.param3 in mid:
 		if op.param2 in Amid:
 		    cl.acceptGroupInvitation(op.param1)
+		    cl.SendText(op.param1,"Terimakasih Telah undang Saya ke Group\nCREATOR STARBOT line.me/ti/p/~ebisuindo\nOA TEAM line.me/ti/p/~@enr7503k")
             if op.param3 in mid:
 		if op.param2 in Bmid:
 		    cl.acceptGroupInvitation(op.param1)
@@ -905,6 +881,7 @@ def bot(op):
               if wait["autoJoin"] == True:
                 if op.param2 in Bots or owner or mid:
                   cl.acceptGroupInvitation(op.param1)
+		  cl.SendText(op.param1,"Terimakasih Telah undang Saya ke Group\nCREATOR STARBOT line.me/ti/p/~ebisuindo\nOA TEAM line.me/ti/p/~@enr7503k")
                 else:
                   cl.rejectGroupInvitation(op.param1)
               else:
@@ -922,6 +899,7 @@ def bot(op):
 	    if mid in op.param3:
                 if wait["autoJoin"] == True:
                     cl.acceptGroupInvitation(op.param1)
+		    cl.SendText(op.param1,"Terimakasih Telah undang Saya ke Group\nCREATOR STARBOT line.me/ti/p/~ebisuindo\nOA TEAM line.me/ti/p/~@enr7503k")
                 else:
 		    cl.rejectGroupInvitation(op.param1)
 	    else:
@@ -1172,47 +1150,47 @@ def bot(op):
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key1"]:
+            elif msg.text in ["Sb1"]:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,translateMessage)
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key7"]:
+            elif msg.text in ["Sb2"]:
                 if msg.from_ in admin or owner:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,botMessage)
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key2"]:
+            elif msg.text in ["Sb3"]:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,socmedMessage)
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key4"]:
+            elif msg.text in ["Sb4"]:
                 if msg.from_ in admin or owner:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,protectMessage)
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key5"]:
+            elif msg.text in ["Sb5"]:
                 if msg.from_ in admin or owner:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,settingMessage)
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key6"]:
+            elif msg.text in ["Sb6"]:
                 if msg.from_ in admin or owner:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,stealMessage)
 					else:
 						cl.sendText(msg.to,helpt)
 #--------------------------------------------------
-            elif msg.text in ["Key3"]:
+            elif msg.text in ["Sb3"]:
                 if msg.from_ in admin or owner:
 					if wait["lang"] == "JP":
 						cl.sendText(msg.to,giftMessage)
@@ -1419,7 +1397,7 @@ def bot(op):
 						else:
 							cl.sendText(msg.to,"Not for use less than group")
 #--------------------------------------------------
-            elif msg.text in ["Kr1 curl","Kr1 link off"]:
+            elif msg.text in ["Sb1 curl","Sb1 link off"]:
 				if msg.from_ in admin or owner:
 					if msg.toType == 2:
 						X = cl.getGroup(msg.to)
@@ -1435,7 +1413,7 @@ def bot(op):
 						else:
 							cl.sendText(msg.to,"Not for use less than group")
 #--------------------------------------------------
-            elif msg.text in ["Kr2 curl","Kr2 link off"]:
+            elif msg.text in ["Sb2 curl","Sb2 link off"]:
 				if msg.from_ in admin or owner:
 					if msg.toType == 2:
 						X = cl.getGroup(msg.to)
@@ -1451,7 +1429,7 @@ def bot(op):
 						else:
 							cl.sendText(msg.to,"Not for use less than group")
 #--------------------------------------------------
-            elif msg.text in ["Kr3 curl","Kr3 link off"]:
+            elif msg.text in ["Sb3 curl","Sb3 link off"]:
 				if msg.from_ in admin or owner:
 					if msg.toType == 2:
 						X = kc.getGroup(msg.to)
@@ -1527,15 +1505,15 @@ def bot(op):
 				if msg.from_ in admin or owner:
 					cl.sendText(msg.to,mid)
 #--------------------------------------------------
-            elif "Kr1 mid" == msg.text:
+            elif "Sb mid" == msg.text:
 				if msg.from_ in admin or owner:
 					cl.sendText(msg.to,Amid)
 #--------------------------------------------------
-            elif "Kr2 mid" == msg.text:
+            elif "Sb mid" == msg.text:
 				if msg.from_ in admin or owner:
 					cl.sendText(msg.to,Bmid)
 #--------------------------------------------------
-            elif "Kr3 mid" == msg.text:
+            elif "Sb mid" == msg.text:
 				if msg.from_ in admin or owner:
 					kc.sendText(msg.to,Cmid)
 #--------------------------------------------------
@@ -1838,42 +1816,42 @@ def bot(op):
             elif msg.text in ["Set","Status"]:
 				if msg.from_ in admin or owner:
 					md = ""
-					if wait["contact"] == True: md+="[􀜁􀇔Mask􏿿] CONTACT : [✅]\n"
-					else: md+="[􀜁􀇔Mask􏿿] CONTACT : [❌]\n"
-					if wait["autoJoin"] == True: md+="[􀜁􀇔Mask􏿿] AUTOJOIN : [✅]\n"
-					else: md +="[􀜁􀇔Mask􏿿] AUTOJOIN : [❌]\n"
-					if wait["autoCancel"]["on"] == True:md+="[􀜁􀇔Mask􏿿] GROUP CANCEL :" + str(wait["autoCancel"]["members"]) + "\n"
-					else: md+="[􀜁􀇔Mask􏿿􏿿] GROUP CANCEL : [❌]\n"
-					if wait["leaveRoom"] == True: md+="[􀜁􀇔Mask􏿿] AUTOLEAVE : [✅]\n"
-					else: md+="[􀜁􀇔􀜁􀇔Mask􏿿􏿿] AUTOLEAVE : [❌]\n"
-					if wait["timeline"] == True: md+="[􀜁􀇔Mask􏿿] SHARE : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] SHARE : [❌]\n"
-					if wait["autoAdd"] == True: md+="[􀜁􀇔Mask􏿿] AUTOADD : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] AUTOADD : [❌]\n"
-					if wait["commentOn"] == True: md+="[􀜁􀇔Mask􏿿] COMMENT : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] COMMENT : [❌]\n"
-					if wait["likeOn"] == True: md+="[􀜁􀇔Mask􏿿] AUTOLIKE : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] AUTOLIKE : [❌]\n"
-					if wait["QrProtect"] == True: md+="[􀜁􀇔Mask􏿿] PROTECT QR : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] PROTECT QR : [❌]\n"
-					if wait["MProtection"] == True:md+="[􀜁􀇔Mask􏿿] PROTECT MEMBER : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] PROTECT MEMBER : [❌]\n"
-					if wait["Protectguest"] == True:md+="[􀜁􀇔Mask􏿿] PROTECT GUEST : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] PROTECT GUEST : [❌]\n"
-					if wait["Protectcancel"] == True:md+="[􀜁􀇔Mask􏿿] PROTECT CANCEL : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] PROTECT CANCEL : [❌]\n"
-					if wait["autoKick"] == True:md+="[􀜁􀇔Mask􏿿] PROTECT KICK : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] PROTECT KICK : [❌]\n"
-					if wait["Wc"] == True: md+="[􀜁􀇔Mask􏿿] WELCOME : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] WELCOME : [❌]\n"
-					if wait["Lv"] == True: md+="[􀜁􀇔Mask􏿿] LEAVE : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] LEAVE : [❌]\n"
-					if wait["tag"] == True: md+="[􀜁􀇔Mask􏿿] TAG 1 : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] TAG 1 : [❌]\n"
-					if wait["tag2"] == True: md+="[􀜁􀇔Mask􏿿] TAG 2 : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] TAG 2 : [❌]\n"
-					if wait["auto"] == True: md+="[􀜁􀇔Mask􏿿] AutoBot Join : [✅]\n"
-					else:md+="[􀜁􀇔Mask􏿿] AutoBot Join : [❌]\n"
+					if wait["contact"] == True: md+="􀜁􀇔Mask􏿿 CONTACT : [✅]\n"
+					else: md+="􀜁􀇔Mask􏿿 CONTACT : [❌]\n"
+					if wait["autoJoin"] == True: md+="􀜁􀇔Mask􏿿 AUTOJOIN : [✅]\n"
+					else: md +="􀜁􀇔Mask􏿿 AUTOJOIN : [❌]\n"
+					if wait["autoCancel"]["on"] == True:md+="􀜁􀇔Mask􏿿 GROUP CANCEL :" + str(wait["autoCancel"]["members"]) + "\n"
+					else: md+="􀜁􀇔Mask􏿿􏿿 GROUP CANCEL : [❌]\n"
+					if wait["leaveRoom"] == True: md+="􀜁􀇔Mask􏿿 AUTOLEAVE : [✅]\n"
+					else: md+="􀜁􀇔􀜁􀇔Mask􏿿􏿿 AUTOLEAVE : [❌]\n"
+					if wait["timeline"] == True: md+="􀜁􀇔Mask􏿿 SHARE : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 SHARE : [❌]\n"
+					if wait["autoAdd"] == True: md+="􀜁􀇔Mask􏿿 AUTOADD : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 AUTOADD : [❌]\n"
+					if wait["commentOn"] == True: md+="􀜁􀇔Mask􏿿 COMMENT : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 COMMENT : [❌]\n"
+					if wait["likeOn"] == True: md+="􀜁􀇔Mask􏿿 AUTOLIKE : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 AUTOLIKE : [❌]\n"
+					if wait["QrProtect"] == True: md+="􀜁􀇔Mask􏿿 PROTECT QR : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 PROTECT QR : [❌]\n"
+					if wait["MProtection"] == True:md+="􀜁􀇔Mask􏿿 PROTECT MEMBER : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 PROTECT MEMBER : [❌]\n"
+					if wait["Protectguest"] == True:md+="􀜁􀇔Mask􏿿 PROTECT GUEST : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 PROTECT GUEST : [❌]\n"
+					if wait["Protectcancel"] == True:md+="􀜁􀇔Mask􏿿 PROTECT CANCEL : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 PROTECT CANCEL : [❌]\n"
+					if wait["autoKick"] == True:md+="􀜁􀇔Mask􏿿 PROTECT KICK : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 PROTECT KICK : [❌]\n"
+					if wait["Wc"] == True: md+="􀜁􀇔Mask􏿿 WELCOME : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 WELCOME : [❌]\n"
+					if wait["Lv"] == True: md+="􀜁􀇔Mask􏿿 LEAVE : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 LEAVE : [❌]\n"
+					if wait["tag"] == True: md+="􀜁􀇔Mask􏿿 TAG 1 : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 TAG 1 : [❌]\n"
+					if wait["tag2"] == True: md+="􀜁􀇔Mask􏿿 TAG 2 : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 TAG 2 : [❌]\n"
+					if wait["auto"] == True: md+="􀜁􀇔Mask􏿿 STARBOT Join : [✅]\n"
+					else:md+="􀜁􀇔Mask􏿿 STARBOT Join : [❌]\n"
 					cl.sendText(msg.to,md)
 #--------------------------------------------------
             elif "album merit " in msg.text:
@@ -2169,7 +2147,7 @@ def bot(op):
 						cl.sendText(msg.to,"Please turn on the name clock")
 
 
-            elif msg.text == "CCtv":
+            elif msg.text == "Cek":
                     cl.sendText(msg.to, "Check sider Eror"),
                     try:
                         del wait2['readPoint'][msg.to]
@@ -2180,7 +2158,7 @@ def bot(op):
                     wait2['readMember'][msg.to] = ""
                     wait2['ROM'][msg.to] = {}
                     print wait2
-            elif msg.text == "Toong":
+            elif msg.text == "Read":
                     if msg.to in wait2['readPoint']:
                         if wait2["ROM"][msg.to].items() == []:
                             chiya = ""
@@ -2194,7 +2172,7 @@ def bot(op):
                     else:
                         cl.sendText(msg.to, "An already read point has not been set.\n¡¸Cctv¡¹you can send  read point will be created ")
 #-----------------------------------------------
-            elif msg.text in ["Crot"]:
+            elif msg.text in ["Tag"]:
                               group = cl.getGroup(msg.to)
                               nama = [contact.mid for contact in group.members]
                               nm1, nm2, nm3, nm4, jml = [], [], [], [], len(nama)
@@ -2366,8 +2344,8 @@ def bot(op):
                         h = ""
                         for i in gid:
                             h += "☄ %s  \n" % (cl.getGroup(i).name + " 👥 ▄ [ " + str(len (cl.getGroup(i).members))+" ]")
-                        cl.sendText(msg.to, "     ☄ [ ♡List Grup♄ ] ☜\n"+ h +"Total Group ▄" +"[ "+str(len(gid))+" ]")
-            elif "Cium " in msg.text:
+                        cl.sendText(msg.to,"══════════════════════════\nMY GROUP\n══════════════════════════\n"+ h +"Total Group " +"[ "+str(len(gid))+" ]")
+            elif "Kiss " in msg.text:
                 if msg.from_ in admin or owner or mid:
                     targets = []
                     key = eval(msg.contentMetadata["MENTION"])
@@ -2642,7 +2620,7 @@ def bot(op):
 #-----------------------------------------------
             elif msg.text in ["Tes"]:
 				if msg.from_ in admin or owner:
-					cl.sendText(msg.to,"Kr Hadir Boss!!")
+					cl.sendText(msg.to,"STARBOT HADIR READY JAGA GROUP")
 #-----------------------------------------------
             elif msg.text in ["Mode On","mode on"]:
                 if msg.from_ in admin or owner:
@@ -2891,11 +2869,11 @@ def bot(op):
 					cl.sendText(msg.to,(bctxt))
             elif msg.text in ["Creator"]:
 					msg.contentType = 13
-					msg.contentMetadata = {'mid': "u31ef22df7f538df1d74dc7f756ef1a32"}
+					msg.contentMetadata = {'mid': "uc77fd25b59f6e563d84f1334f3fed10b"}
 					cl.sendText(msg.to,"MyCreator")
 					ki.sendMessage(msg)
 					msg.contentType = 13
-					msg.contentMetadata = {'mid': "u9cc2323f5b84f9df880c33aa9f9e3ae1"}
+					msg.contentMetadata = {'mid': "uc77fd25b59f6e563d84f1334f3fed10b"}
 					cl.sendText(msg.to,"MyCreator")
 					cl.sendText(msg.to,"Simanis madu ya!!")
 					ki.sendMessage(msg)
@@ -4061,8 +4039,8 @@ def bot(op):
 					cl.sendText(msg.to,"Bot 2")
 					cl.sendText(msg.to,"Bot 3")
             elif msg.text in ["Absen"]:
-                    cl.sendText(msg.to,"👉★★★")
-                    cl.sendText(msg.to,"👉★★★★")
+                    cl.sendText(msg.to,"")
+                    cl.sendText(msg.to,"2")
                     cl.sendText(msg.to,"👉★★★★★")
                     cl.sendText(msg.to,"👉★★★★★★")
                     cl.sendText(msg.to,"👉★★★★★★★")
